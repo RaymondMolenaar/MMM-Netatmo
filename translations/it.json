@@ -13,9 +13,9 @@
   "SUM_RAIN_24": "Pioggia (24h)",
   "WIND": "Vento",
   "WINDSTRENGTH": "Vento",
-  "WINDANGLE": "Vento (Angolo)",
+  "WINDANGLE": "Vento (Direzione)",
   "GUSTSTRENGTH": "Raffica",
-  "GUSTANGLE": "Raffica (Angolo)",
+  "GUSTANGLE": "Raffica (Direzione)",
 
   "UP": "Aumento",
   "STABLE": "Stabile",
