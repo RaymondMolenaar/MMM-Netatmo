@@ -1045,6 +1045,7 @@ Module.register("MMM-Netatmo", {
 			de: "translations/de.json",
 			en: "translations/en.json",
 			fr: "translations/fr.json",
+			it: "translations/it.json",
 			cs: "translations/cs.json",
 			nb: "translations/nb.json",
 			nl: "translations/nl.json",
