@@ -5,6 +5,7 @@
 # MagicMirror-Netatmo-Module
 
 A module to integrale informations from a Netatmo weather station into the [MagicMirror](https://github.com/MichMich/MagicMirror).
+I Add The Italian Translation
 
 ![MMM-Netatmo full display](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_full.png)
 
