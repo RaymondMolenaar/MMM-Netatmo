@@ -29,7 +29,7 @@ To be able to access your data, you need to have an Netatmo Application and gran
 
 #### Register an App
 
-Your can register a new app [here](https://dev.netatmo.com/dev/createapp). Afterwards you will get an APP_ID and an APP_SECRET which you will need to enter in the [config entries](#configuration).
+Your can register a new app [here](https://dev.netatmo.com/apps/createanapp). Afterwards you will get an APP_ID and an APP_SECRET which you will need to enter in the [config entries](#configuration).
 
 #### Grant Access to Your Data
 
